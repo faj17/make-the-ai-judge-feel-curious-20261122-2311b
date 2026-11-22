@@ -1,6 +1,10 @@
 # Make the AI judge feel curious
 
-An entry for the make.fun bounty of the same name — $50 in total,
+[![make.fun · make-the-ai-judge-feel-curious-20261122-2311](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/faj17/make-the-ai-judge-feel-curious-20261122-2311b/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-curious-20261122-2311/faj17/make-the-ai-judge-feel-curious-20261122-2311b/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-curious-20261122-2311)
+
+An entry for the [make.fun bounty of the same name](https://make.fun/bounty/make-the-ai-judge-feel-curious-20261122-2311) — $50 in total,
 entries closing 23 November 2026 at 09:11 WIB.
 
 Running `main.py` writes a single short piece of writing to
